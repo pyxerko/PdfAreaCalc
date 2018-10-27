@@ -1,0 +1,6 @@
+G:\devG\Projects\PdfAreaCalc\PdfAreaCalcCommon\bin\Debug\PdfAreaCalcCommon.dll.config
+G:\devG\Projects\PdfAreaCalc\PdfAreaCalcCommon\bin\Debug\PdfAreaCalcCommon.dll
+G:\devG\Projects\PdfAreaCalc\PdfAreaCalcCommon\bin\Debug\PdfAreaCalcCommon.pdb
+G:\devG\Projects\PdfAreaCalc\PdfAreaCalcCommon\obj\Debug\PdfAreaCalcCommon.csproj.CoreCompileInputs.cache
+G:\devG\Projects\PdfAreaCalc\PdfAreaCalcCommon\obj\Debug\PdfAreaCalcCommon.dll
+G:\devG\Projects\PdfAreaCalc\PdfAreaCalcCommon\obj\Debug\PdfAreaCalcCommon.pdb

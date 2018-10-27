@@ -1,0 +1,7 @@
+G:\devG\Projects\PdfAreaCalc\PdfAreraCalcConsoleApp\bin\Debug\PdfAreraCalcConsoleApp.exe.config
+G:\devG\Projects\PdfAreaCalc\PdfAreraCalcConsoleApp\bin\Debug\PdfAreraCalcConsoleApp.exe
+G:\devG\Projects\PdfAreaCalc\PdfAreraCalcConsoleApp\bin\Debug\PdfAreraCalcConsoleApp.pdb
+G:\devG\Projects\PdfAreaCalc\PdfAreraCalcConsoleApp\obj\Debug\PdfAreraCalcConsoleApp.csprojAssemblyReference.cache
+G:\devG\Projects\PdfAreaCalc\PdfAreraCalcConsoleApp\obj\Debug\PdfAreraCalcConsoleApp.csproj.CoreCompileInputs.cache
+G:\devG\Projects\PdfAreaCalc\PdfAreraCalcConsoleApp\obj\Debug\PdfAreraCalcConsoleApp.exe
+G:\devG\Projects\PdfAreaCalc\PdfAreraCalcConsoleApp\obj\Debug\PdfAreraCalcConsoleApp.pdb
